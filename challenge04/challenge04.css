@@ -1,0 +1,36 @@
+body{
+    background-color: #5ca0d7;
+    text-align: center ;
+    width: 400px;
+    margin: auto;
+    }
+header{
+    color: white;
+    text-align: center;
+}
+h1:hover{
+    color: black;
+}
+h2{
+    font-size: 12px;
+}
+h3{
+    font-size: 18px;
+}
+ol{
+    text-align: left;
+}
+img{
+    width: 200px
+}
+div{
+    color: white;
+    font-size: 30px;
+    width: 300px;
+    margin: auto;
+}
+footer{
+    color: black;
+    line-height: 1px;
+    font-size: 12px;
+}
